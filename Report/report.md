@@ -19,8 +19,17 @@
 * skip-thought Vector中的两个decoder存在如果inference的问题
 
 ##8.8
-###SeqGan
-开坑这个，今天demo跑起来了，生成押韵是一个很重要的问题
+###Skip-thought vector
+
+#8.16
+###SeqGAN
+Understand the generator of seqgan 
+
+#8.17
+###topic Lyrics generation
+rewrite the topic Lyrics generation
+i think the charrnn can not achieve the topic-Lyrics generation
+
 
 
 
